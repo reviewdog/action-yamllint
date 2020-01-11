@@ -7,8 +7,8 @@ This action runs [yamllint](https://github.com/adrienverge/yamllint) with
 [reviewdog](https://github.com/reviewdog/reviewdog) on pull requests to improve
 code review experience.
 
-[![github-pr-check sample](https://user-images.githubusercontent.com/3797062/65439130-a6043b80-de61-11e9-98b5-bd9567e184b0.png)](https://github.com/reviewdog/action-yamllint/pull/1)
-[![github-pr-review sample](https://user-images.githubusercontent.com/3797062/65439073-91c03e80-de61-11e9-9077-39d480fbad0d.png)](https://github.com/reviewdog/action-yamllint/pull/1)
+[![github-pr-check sample](https://user-images.githubusercontent.com/8191198/72208542-0ddba200-34a4-11ea-90ce-c9508942420c.png)](https://github.com/reviewdog/action-yamllint/pull/1)
+[![github-pr-review sample](https://user-images.githubusercontent.com/8191198/72208536-087e5780-34a4-11ea-8ac7-bc7161c9cc20.png)](https://github.com/reviewdog/action-yamllint/pull/1)
 
 ## Inputs
 
