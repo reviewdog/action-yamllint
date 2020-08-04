@@ -29,6 +29,18 @@ It's same as `-reporter` flag of reviewdog.
 
 github-pr-review can use Markdown and add a link to rule page in reviewdog reports.
 
+### `filter_mode`
+
+Optional. Filtering mode for the reviewdog command [added,diff_context,file,nofilter]. Default is added.
+
+### `fail_on_error`
+
+Optional. Exit code for reviewdog when errors are found [true,false] Default is `false`.
+
+### `reviewdog_flags`
+
+Optional. Additional reviewdog flags.
+
 ### `yamllint_flags`
 
 Optional. Flags and args of yamllint command. Default: '.'
