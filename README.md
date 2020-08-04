@@ -57,4 +57,3 @@ jobs:
           reporter: github-pr-review # Change reporter.
           yamllint_flags: 'src/'
 ```
-s
