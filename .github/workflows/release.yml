@@ -46,7 +46,7 @@ jobs:
       - name: build the Docker Image
         if: "${{ !steps.bumpr.outputs.skip }}"
         run: |
-          git checkout main
+          git switch master
           ./.github/build.sh
         env:
           GITHUB_TOKEN: ${{ github.token }}
