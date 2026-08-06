@@ -1,4 +1,4 @@
-FROM python:3.14.6-alpine3.24
+FROM python:3.14.7-alpine3.24
 
 ENV REVIEWDOG_VERSION=v0.21.0
 
