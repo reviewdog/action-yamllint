@@ -41,7 +41,7 @@ inputs:
     default: "."
 runs:
   using: "docker"
-  image: 'docker://ghcr.io/reviewdog/action-yamllint:v1.23.0'
+  image: 'docker://ghcr.io/reviewdog/action-yamllint:v1.23.1'
 branding:
   icon: "alert-octagon"
   color: "blue"
